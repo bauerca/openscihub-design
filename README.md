@@ -16,6 +16,9 @@ purposes:
 User reviews will be subject to voting and moderation to judge their relevance
 and quality and curb abuse.
 
+The following is a broad overview of the openscihub implementation
+plan.
+
 - [Users](#users)
 - [Communities](#communities)
 - [Articles](#articles)
