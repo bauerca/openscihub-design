@@ -4,7 +4,6 @@ Openscihub is an in-progress platform for open and constructive discussion
 and review of scientific articles that seeks to maximize engagement from the
 layperson to the domain expert.
 
-- [Summary](#summary)
 - [Users](#users)
 - [Communities](#communities)
 - [Articles](#articles)
