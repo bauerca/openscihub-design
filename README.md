@@ -117,12 +117,12 @@ For example, consider an article about some novel kind of holey-fiber
 telecommunications waveguide. A science writer, Dave, is interested in the
 article but is unfamiliar with photonic crystals and therefore composes a
 review requesting more background information.  If Dave is a member of only the
-two openscihub communities, *general public* and *science writers*, a reader
-from the *optoelectronics* community, Susan, has the ability to ignore Dave's
-review (and the resulting discussion of photonic crystals) by "turning off" the
-*general public* and *science writers* target audiences. Similarly, Dave can
-ignore any esoteric discussions between Susan and other *optoelectronics*
-community members by turning off the *optoelectronics* target audience.
+two openscihub communities, *public* and *science writers*, a reader from the
+*optoelectronics* community, Susan, can ignore Dave's review
+(and the resulting discussion of photonic crystals) by "turning off" the
+*public* and *science writers* target audiences. Similarly, Dave can ignore any
+esoteric discussions between Susan and other *optoelectronics* community
+members by turning off the *optoelectronics* target audience.
 
 ### Moderation
 
