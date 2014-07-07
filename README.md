@@ -1,6 +1,6 @@
 # Openscihub
 
-Openscihub strives to provide a platform for open and constructive discussion
+Openscihub is an in-progress platform for open and constructive discussion
 and review of scientific articles that maximizes engagement from the layperson
 to the domain expert.
 
