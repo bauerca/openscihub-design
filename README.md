@@ -4,17 +4,6 @@ Openscihub is an in-progress platform for open and constructive discussion
 and review of scientific articles that seeks to maximize engagement from the
 layperson to the domain expert.
 
-- [Users](#users)
-- [Communities](#communities)
-- [Articles](#articles)
-  - [URL](#url)
-- [Canons](#canons)
-- [Reviews](#reviews)
-  - [Scope](#scope)
-  - [Moderation](#moderation)
-
-## Summary
-
 Fundamentally, the platform will manage and display PDFs (articles) and
 annotations (reviews), which can be created and submitted by *any* user.
 User-defined communities will group users and articles and will serve several
@@ -26,6 +15,15 @@ purposes:
 
 User reviews will be subject to voting and moderation to judge their relevance
 and quality and curb abuse.
+
+- [Users](#users)
+- [Communities](#communities)
+- [Articles](#articles)
+  - [URL](#url)
+- [Canons](#canons)
+- [Reviews](#reviews)
+  - [Scope](#scope)
+  - [Moderation](#moderation)
 
 ## Users
 
