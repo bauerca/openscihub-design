@@ -22,7 +22,6 @@ plan.
 - [Users](#users)
 - [Communities](#communities)
 - [Articles](#articles)
-  - [URL](#url)
 - [Canons](#canons)
 - [Reviews](#reviews)
   - [Scope](#scope)
@@ -54,31 +53,6 @@ Partnerships with well-established pre-print archives (ahem,
 It is openscihub's lofty dream to serve *every* scientific article, ready for
 open discussion, by being such a successful project that publishers alter their
 copyright agreements (we said lofty...).
-
-### URL
-
-Articles will be shown at human-friendly, first-rate urls:
-
-```
-https://openscihub.org/<article_alias>
-```
-
-where `article_alias` is chosen by the submitter and comprises
-the characters `a-z`, `0-9`, and `-`.  Openscihub will *require* the hyphen
-character to differentiate between other url endpoints such as
-`https://openscihub.org/users`, `https://openscihub.org/communities`, etc.
-
-The alias should identify the article as succinctly as possible, and be
-human-readable. This usually means picking terms from the title, and possibly
-incorporating author, year, institution, and/or collaboration information. For
-example,
-
-```
-https://openscihub.org/bethe-small-hole-diffraction
-```
-
-might be a good alias for Hans Bethe's seminal paper *Theory of Diffraction by
-Small Holes*.
 
 ## Canons
 
